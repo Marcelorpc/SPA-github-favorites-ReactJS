@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  font-size: 62.5%;
+
+  --base-color-gray-950: #030712;
+  --base-color-gray-900: #111827;
+  --base-color-gray-800: #1F2937;
+  --base-color-gray-600: #4B5563;
+  --base-color-gray-500: #6B7280;
+  --base-color-gray-400: #9CA3AF;
+  --base-color-gray-100: #F3F4F6;
+
+  --base-color-cyan-900: #0C4A6E;
+  --base-color-cyan-600: #0891B2;
+
+  --base-color-red-600: #DC2626;
+  --base-color-red-500: #EF4444;
+}
+
+html * {
+  font-family: "Roboto", sans-serif;
+  font-size: 1.6rem;
+}
