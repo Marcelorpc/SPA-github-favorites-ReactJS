@@ -26,3 +26,7 @@ html * {
   font-family: "Roboto", sans-serif;
   font-size: 1.6rem;
 }
+
+:focus {
+  outline: 3px solid var(--base-color-cyan-900);
+}
