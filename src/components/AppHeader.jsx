@@ -15,7 +15,7 @@ export function AppHeader() {
           <input id='userInput' type="text" placeholder='Digite um nome de usuário do github'/>
         </div>
 
-        <button><Star size={32} weight='bold'/> FAVORITAR</button>
+        <button><Star size={32} weight='bold'/>FAVORITAR</button>
       </form>
     </div>
   )
