@@ -1,6 +1,16 @@
+import './global.css'
+
+import styles from './App.module.css'
+ 
+import { AppHeader } from './components/AppHeader'
+
 function App() {
   return (
-    <p>teste</p>
+    <main>
+      <div className={styles.app}>
+        <AppHeader />
+      </div>
+    </main>
   )
 }
 

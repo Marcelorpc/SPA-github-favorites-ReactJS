@@ -1,0 +1,10 @@
+main {
+  height: 100vh;
+  background-color: var(--base-color-gray-950);
+  display: grid;
+  place-content: center;
+}
+
+.app {
+  width: 1040px;
+}
